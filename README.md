@@ -1,4 +1,4 @@
-# Find-Music-Learn-Music-App-Project
+# Find-Music-For-My-Lesson
 Project #1 (Wireframes Attached)
 
 <h2> Built With </h2>
